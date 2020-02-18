@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Feb 17 20:39:17 ICT 2020
+#Mon Feb 17 21:36:51 CST 2020
 1.base=C\:\\Users\\Krisna\\AndroidStudioProjects\\ShakeViewLib\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
